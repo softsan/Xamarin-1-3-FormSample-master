@@ -1,0 +1,42 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupItem="Android\MobileRecruiter.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.3215bc9a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Android\CheckBoxRenderer.cs">
+    <Files>
+      <File FileName="MobileRecruiter\App.cs" Line="3" Column="3" />
+      <File FileName="MobileRecruiter\Views\MainPage.cs" Line="18" Column="18" />
+      <File FileName="MobileRecruiter\Views\MyContractorPage.cs" Line="4" Column="4" />
+      <File FileName="MobileRecruiter\Views\RegisterPage.cs" Line="4" Column="4" />
+      <File FileName="Android\CheckBoxRenderer.cs" Line="6" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MobileRecruiter" expanded="True">
+            <Node name="Services" expanded="True" />
+            <Node name="ViewModel" expanded="True" />
+            <Node name="Views" expanded="True" />
+          </Node>
+          <Node name="MobileRecruiter.Android" expanded="True">
+            <Node name="Packages" expanded="True">
+              <Node name="Xamarin.Forms" selected="True" />
+            </Node>
+            <Node name="Resources" expanded="True">
+              <Node name="drawable" expanded="True" />
+              <Node name="drawable-xxhdpi" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sudhir.thanki/Desktop/SharedDrive/XamarinForms/MobileRecruiter/MobileRecruiter/Views/MainPage.cs" line="81" column="1" />
+      <Breakpoint file="/Users/sudhir.thanki/Desktop/SharedDrive/XamarinForms/MobileRecruiter/MobileRecruiter/Views/MainPage.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>iOS\MobileRecruiter.iOS.csproj</String>
+  </DisabledProjects>
+</Properties>
